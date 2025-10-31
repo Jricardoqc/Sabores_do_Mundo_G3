@@ -8,3 +8,4 @@
 - Vinícius Roberto
 
 **Sobre o projeto**
+Estudo de caso real: rede de restaurantes "Sabores do Mundo"
