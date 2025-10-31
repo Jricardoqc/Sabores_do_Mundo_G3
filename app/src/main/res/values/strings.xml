@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Sabores do Mundo</string>
+    <string name="login">Login</string>
+    <string name="username">Usuário</string>
+    <string name="welcome">Bem-vindo</string>
+    <string name="add">Adicionar</string>
+    <string name="save">Salvar</string>
 </resources>
