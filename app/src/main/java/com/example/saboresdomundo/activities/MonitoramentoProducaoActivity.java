@@ -24,6 +24,7 @@ public class LcFAfaNpjEG2rCQEhuE1sA1hLU4gnk6JR2 extends AppCompatActivity {
     private FloatingActionButton fabAddReceita;
     private ArrayList<String> listaPratos;
     private ArrayAdapter<String> adapter;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
